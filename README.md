@@ -16,7 +16,7 @@ O foco deste projeto é criar uma **infraestrutura automatizada** usando o **AWS
 - **AWS CLI**
 - **Git e GitHub**
 - **Markdown** para documentação
-- (Opcional) **VS Code** para edição dos arquivos
+  
 
 ---
 
